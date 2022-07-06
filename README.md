@@ -1,2 +1,3 @@
 # practice
-playground
+playground - Demo
+Practice with Python and Github
